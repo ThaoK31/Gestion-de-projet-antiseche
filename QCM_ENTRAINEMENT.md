@@ -17,10 +17,10 @@
 - D) Le client
 
 **Q3.** Quand se déroule la Sprint Retrospective ?
-- A) Avant le sprint X
+- A) Avant le sprint
 - B) Pendant le sprint
 - C) À la fin du sprint, avant la Review
-- D) Après la Sprint Review
+- D) Après la Sprint Review X
 
 **Q4.** Le Scrum Master est :
 - A) Le chef de projet
@@ -159,8 +159,8 @@
 - D) Aucune, ce n'est pas de la maintenance
 
 **Q24.** La norme qui définit la maintenance logicielle est :
-- A) ISO 9001 X
-- B) ISO/IEC 14764
+- A) ISO 9001
+- B) ISO/IEC 14764 X
 - C) ISO 27001
 - D) RGPD
 
@@ -203,6 +203,28 @@
 - B) Le Product Owner et les parties prenantes
 - C) La Dev Team et le Scrum Master (+ PO optionnel) X
 - D) Tout le monde y compris le client
+
+---
+
+## BONUS - PLANIFICATION (Cours 4)
+
+**Q31.** Quelle est la différence entre Vision d'entreprise et Mission d'entreprise ?
+- A) Vision = moyens, Mission = futur idéal
+- B) Vision = futur idéal, Mission = moyens pour y arriver X
+- C) C'est la même chose
+- D) Vision = produit, Mission = équipe
+
+**Q32.** Quel pourcentage de charges patronales faut-il ajouter au coût brut RH ?
+- A) 30%
+- B) 45% X
+- C) 50%
+- D) 60%
+
+**Q33.** Que signifie OKR ?
+- A) Objective Key Results
+- B) Objectives and Key Results X
+- C) Organization Key Resources
+- D) Objectives Knowledge Review
 
 ---
 
@@ -251,3 +273,8 @@
 - Q28: **B** (Lead Time > Cycle Time)
 - Q29: **B** (US du sprint en cours)
 - Q30: **C** (Dev Team + SM, PO optionnel)
+
+## BONUS - PLANIFICATION
+- Q31: **B** (Vision = futur idéal, Mission = moyens)
+- Q32: **B** (45% charges patronales)
+- Q33: **B** (Objectives and Key Results)

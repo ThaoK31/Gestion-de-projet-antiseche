@@ -168,6 +168,81 @@
 
 ---
 
+## ÉVALUATION DES COMPÉTENCES
+
+| Méthode | Avantage | Inconvénient |
+|---------|----------|--------------|
+| **Auto-évaluation** | Rapide | Dépend de l'honnêteté |
+| **Tests techniques** | Concret | Chronophage, stress |
+| **Évaluation pairs** | Objectif | Tensions possibles |
+
+> **Matrice des compétences** = tableau Compétences × Membres avec niveaux (Débutant/Intermédiaire/Avancé)
+
+---
+
+## FORMATIONS
+
+| | Interne | Externe |
+|-|---------|---------|
+| **Par** | Senior, Tech Lead | Organismes, écoles |
+| **Coût** | Minime | Élevé (OPCO) |
+| **Certifiante** | Non | Parfois |
+
+| | Courte | Longue |
+|-|--------|--------|
+| **Durée** | Heures à jours | Semaines à mois |
+| **Pour** | Compétence précise | Reconversion |
+
+---
+
+## ROADMAP
+
+### Vision d'entreprise
+> Futur idéalisé
+
+**5 critères :** Imaginable, Désirable, Concentrée, Flexible, Facile à expliquer
+
+### Mission d'entreprise
+> Précise les **moyens** (activités + public ciblé + impact)
+
+### Vision produit
+> Produit + Public + Problème + Solution + Avantages
+
+---
+
+## OKR (Objectives and Key Results)
+
+| Niveau | Objective | Key Results |
+|--------|-----------|-------------|
+| **Entreprise** | Vision globale | Métriques business |
+| **Produit** | Objectif produit | Métriques produit |
+
+> **Règle du 3-3-3** = Planifier sur 3 trimestres, pas de dates précises
+
+### Backlog → Roadmap
+1. Reprendre le backlog
+2. Regrouper par **zones d'effort**
+3. Ajouter à la roadmap
+
+---
+
+## COÛTS
+
+**Formule :**
+```
+Coût humain = Personnes × Temps × Coût journalier + Charges
+```
+
+> **Charges patronales = +45%** sur le brut
+
+| Exemple | Coût journalier |
+|---------|-----------------|
+| Dev Full Stack | 300€ |
+| Designer | 250€ |
+| QA | 200€ |
+
+---
+
 ## PIÈGES CLASSIQUES QCM
 
 - Daily = **15 min MAX** (pas 30, pas 1h)
@@ -179,3 +254,6 @@
 - Lead Time **>** Cycle Time (toujours)
 - Burndown **descend** / Burnup **monte**
 - SWOT : Forces/Faiblesses = **INTERNE**
+- Vision entreprise ≠ Mission (Vision = idéal, Mission = moyens)
+- **OKR** = Objectives AND Key Results (pas juste objectifs)
+- Charges patronales = **+45%** (pas 30%, pas 50%)
